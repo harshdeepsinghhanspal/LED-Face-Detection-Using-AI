@@ -1,4 +1,4 @@
-This project is about controlling the brightness of LED💡 by the tip of the finger☝!!!
+This project is about turning on-off of LED💡 by your face😀!!!
 
 [+] Upload the Arduino Code to the Arduino board first. 
 
